@@ -17,7 +17,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 1 -->
   <tr>
     <td width="40%" align="center">
-        <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj1b.gif?raw=true" alt="project" href="#none">
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj1b.gif?raw=true" alt="project"></a>
     </td>
     <td width="60%" valign="top">
       <h3>Juicy Healthy | Full-Stack E-Commerce</h3>
@@ -38,7 +38,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 2 -->
   <tr>
     <td width="40%" align="center">
-        <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj2c.gif?raw=true" alt="project" href="#none">
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj2c.gif?raw=true" alt="project"></a>
     </td>
     <td width="60%" valign="top">
       <h3>MERN Architecture Lab: Balance Tracker <img src="https://img.shields.io/badge/WIP-fbbf24?" alt="WIP"></h3>
@@ -58,7 +58,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 3 -->
   <tr>
     <td width="40%" align="center">
-        <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj3b.gif?raw=true" alt="project" href="#none">
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj3b.gif?raw=true" alt="project"></a>
     </td>
     <td width="60%" valign="top">
       <h3>JSD12 Architecture & System Design Lab I</h3>
@@ -79,7 +79,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 4 -->
   <tr>
     <td width="40%" align="center">
-        <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj4b.gif?raw=true" alt="project" href="#none">
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj4b.gif?raw=true" alt="project"></a>
     </td>
     <td width="60%" valign="top">
       <h3>JSD12 Architecture & System Design Lab II</h3>
@@ -115,10 +115,10 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
     <td width="30%" valign="top">
       <strong>Mini #1: yosong.dev | weerayosong's Portfolio</strong><br>
       <small>Now you're looking at this mini. That's right, It's this page.</small><br><br><a href="#none">
-      <img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5">
-      <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css">
-      <img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js">
-      </a><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <br><br>
       <a href="https://github.com/weerayosong/weerayosong.github.io">Code</a> | <a href="https://www.yosong.dev/">Live</a>
     </td>
     <td width="20%" valign="top" align="center">
@@ -128,10 +128,11 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
     </td>
     <td width="30%" valign="top">
       <strong>Mini #2: Empire Strikes Clicker!</strong><br>
-      <small>Cookie clicker-clone with the love of Star wars in mind!</small><br><br><a href="#none">
-      <img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5">
-      <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css">
-      <img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a><br><br>
+      <small>Cookie clicker-clone with the love of Star wars in mind!</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <br><br>
       <a href="https://github.com/weerayosong/jsd12_week07/tree/main/02_empire-strikes-clicker">Code</a> | <a href="https://jsd12week07.vercel.app/">Live</a>
     </td>
   </tr>
@@ -145,10 +146,11 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
     </td>
     <td width="30%" valign="top">
       <strong>Mini #3: Dark Side Converter | PX to REM</strong><br>
-      <small>PX to REM unit converter made by Lord Vader</small><br><br><a href="#none">
-      <img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5">
-      <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css">
-      <img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a><br><br>
+      <small>PX to REM unit converter made by Lord Vader</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <br><br>
       <a href="https://github.com/weerayosong/px-rem-converter-darkside">Code</a> | <a href="https://px-rem-converter-darkside.vercel.app/">Live</a>
     </td>
     <td width="20%" valign="top" align="center">
@@ -158,10 +160,11 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
     </td>
     <td width="30%" valign="top">
       <strong>Mini #4: My first API - Pokemon-Simple-API</strong><br>
-      <small>PokeAPI in new simple API Schema, Contain only neccessesary property.</small><a href="#none"><br><br>
-      <img src="https://img.shields.io/badge/Node-0F172A?logo=node.js" alt="node">
-      <img src="https://img.shields.io/badge/Express-0F172A?&logo=express" alt="express">
-      <img src="https://img.shields.io/badge/RESTful_API-0F172A?&logo=rest" alt="rest-api"></a><br><br>
+      <small>PokeAPI in new simple API Schema, Contain only neccessesary property.</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/Node-0F172A?logo=node.js" alt="node"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/Express-0F172A?&logo=express" alt="express"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/RESTful_API-0F172A?&logo=rest" alt="rest-api"></a>
+      <br><br>
       <a href="https://github.com/weerayosong/pokemon-simple">Code</a> | <a href="https://pokemon-simple.vercel.app/">Live</a>
     </td>
   </tr>
@@ -175,10 +178,11 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
     </td>
     <td width="30%" valign="top">
       <strong>Mini #5: Space Castle Dooms | JS Browser-based Rogue-like game</strong><br>
-      <small>Practice myself by make game with REACT!</small><br><br><a href="#none">
-      <img src="https://img.shields.io/badge/React-0F172A?logo=react" alt="react">
-      <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css">
-      <img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a><br><br>
+      <small>Practice myself by make game with REACT!</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/React-0F172A?logo=react" alt="react"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <br><br>
       <a href="https://github.com/weerayosong/space-castle-dooms">Code</a> | <a href="https://space-castle-dooms.vercel.app/">Live</a>
     </td>
     <td width="20%" valign="top" align="center">
@@ -188,10 +192,11 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
     </td>
     <td width="30%" valign="top">
       <strong>Mini #6: Dark Side Converter | Tailwind CSS-Size</strong><br>
-      <small>You'll use Tailwind CSS-Size with more Precisionly (like Stromtrooper).</small><br><br><a href="#none">
-      <img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5">
-      <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css">
-      <img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a><br><br>
+      <small>You'll use Tailwind CSS-Size with more Precisionly (like Stromtrooper).</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js">
+      <br><br>
       <a href="https://github.com/weerayosong/tailwindcss-size-converter-darkside">Code</a> | <a href="https://tailwindcss-size-converter-darkside.vercel.app/">Live</a>
     </td>
   </tr>
@@ -205,10 +210,11 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
     </td>
     <td width="30%" valign="top">
       <strong>Mini #7: FE + BE | JS Browser-based RPG game</strong><br>
-      <small>At least made a quick game with React, better than abandon whole project.</small><br><br><a href="#none">
-      <img src="https://img.shields.io/badge/React-0F172A?logo=react" alt="react">
-      <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css">
-      <img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a><br><br>
+      <small>At least made a quick game with React, better than abandon whole project.</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/React-0F172A?logo=react" alt="react"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <br><br>
       <a href="https://github.com/weerayosong/febe-game">Code</a> | <a href="https://febe-game.vercel.app/">Live</a>
     </td>
     <td width="20%" valign="top" align="center">
