@@ -46,7 +46,7 @@ Below is a selection of full-stack projects developed to explore production-read
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
         <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/REST_API-0052CC?" alt="REST API"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/REST_API-a3e635?" alt="REST API"></a>
         <a href="#none"><img src="https://img.shields.io/badge/Deployment-Vercel_%26_Render-000000?" alt="Deployment"></a>
       </p>
       <p>
@@ -66,8 +66,8 @@ Below is a selection of full-stack projects developed to explore production-read
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
         <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/PERN_Stack-336791?logo=postgresql&logoColor=white" alt="Databases"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/API_Sandbox-0052CC?" alt="API"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/PERN_Stack-336791?logo=postgresql&logoColor=white" alt="PERN"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/API_Sandbox-9a3412?" alt="API"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe.git" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
