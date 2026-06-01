@@ -23,10 +23,10 @@ Below is a selection of full-stack projects developed to explore production-read
       <h3>Juicy Healthy | Full-Stack E-Commerce</h3>
       <p>My very first self-taught (trial and errors) full-stack project built to understand the foundational mechanics of a real-world E-commerce website. It served as a practical learning ground for global state management with Redux Toolkit, secure user authentication, and PayPal payment integration, paved the way for my deeper studies in advanced system design.</p>
       <p>
-        <img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN">
-        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux">
-        <img src="https://img.shields.io/badge/PayPal_API-003087?logo=paypal&logoColor=white" alt="PayPal">
-        <img src="https://img.shields.io/badge/Deployment-Vercel_%26_Render-000000?" alt="Deployment">
+        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/PayPal_API-003087?logo=paypal&logoColor=white" alt="PayPal"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Deployment-Vercel_%26_Render-000000?" alt="Deployment"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/juicy-healthy" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
@@ -44,10 +44,10 @@ Below is a selection of full-stack projects developed to explore production-read
       <h3>MERN Architecture Lab: Balance Tracker <img src="https://img.shields.io/badge/WIP-fbbf24?" alt="WIP"></h3>
       <p>A full-stack architectural case study focusing on production-ready system design via the MERN stack. Implements advanced task workflows with clean separation of concerns, optimized database modeling, and decoupled cross-cloud deployment on Vercel and Render.</p>
       <p>
-        <img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design">
-        <img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN">
-        <img src="https://img.shields.io/badge/REST_API-0052CC?" alt="REST API">
-        <img src="https://img.shields.io/badge/Deployment-Vercel_%26_Render-000000?" alt="Deployment">
+        <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/REST_API-0052CC?" alt="REST API"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Deployment-Vercel_%26_Render-000000?" alt="Deployment"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/balance-tracker" target="_blank">Code Repository</a>
@@ -64,10 +64,10 @@ Below is a selection of full-stack projects developed to explore production-read
       <h3>JSD12 Architecture & System Design Lab I</h3>
       <p>An API Testing Playground | An architectural system design project applying MERN and PERN stacks to a unified dashboard. It demonstrates decoupled logic (SoC) across MongoDB and PostgreSQL.</p>
       <p>
-        <img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design">
-        <img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN">
-        <img src="https://img.shields.io/badge/PERN_Stack-336791?logo=postgresql&logoColor=white" alt="Databases">
-        <img src="https://img.shields.io/badge/API_Sandbox-0052CC?" alt="API">
+        <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/PERN_Stack-336791?logo=postgresql&logoColor=white" alt="Databases"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/API_Sandbox-0052CC?" alt="API"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe.git" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
@@ -85,10 +85,10 @@ Below is a selection of full-stack projects developed to explore production-read
       <h3>JSD12 Architecture & System Design Lab II</h3>
       <p>User Dashboard | A full-stack architectural lab emphasizing strict Separation of Concerns (SoC). Features a highly decoupled React frontend—structured with Custom Hooks, Context API, and an isolated Service Layer—integrated with a unified MERN backend. Demonstrates secure JWT authentication, role-based access control, cross-deployed on Vercel and Render.</p>
       <p>
-        <img src="https://img.shields.io/badge/SoC_Architecture-64748b?" alt="Architecture">
-        <img src="https://img.shields.io/badge/React_Hooks-61DAFB?logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/JWT_Authentication-000000?logo=json-web-tokens&logoColor=white" alt="JWT">
-        <img src="https://img.shields.io/badge/RBAC_Security-D32F2F?" alt="RBAC">
+        <a href="#none"><img src="https://img.shields.io/badge/SoC_Architecture-64748b?" alt="Architecture"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/React_Hooks-61DAFB?logo=react&logoColor=black" alt="React"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/JWT_Authentication-000000?logo=json-web-tokens&logoColor=white" alt="JWT"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/RBAC_Security-D32F2F?" alt="RBAC"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe2.git" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
@@ -224,10 +224,11 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
     </td>
     <td width="30%" valign="top">
       <strong>Mini #8: Portfolio II | From Design to Code Portfolio</strong><br>
-      <small>JSD12 Portfolio Workshop, from Design to Code in 1 Day</small><br><br><a href="#none">
-      <img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5">
-      <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css">
-      <img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a><br><br>
+      <small>JSD12 Portfolio Workshop, from Design to Code in 1 Day</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <br><br>
       <a href="https://github.com/weerayosong/portfolio2">Code</a> | <a href="https://portfolio2-wheat-pi.vercel.app/">Live</a>
     </td>
   </tr>
