@@ -5,7 +5,7 @@
 A Full Stack Developer with a deep commitment to continuous learning, currently focusing on foundation, system design and business logic to lay a solid foundation for building scalable applications in the future.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yosong.dev-64748b?)](https://www.yosong.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-64748b?)](https://www.linkedin.com/in/weerayosong/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-weerayosong-64748b?)](https://www.linkedin.com/in/weerayosong/)
 
 ---
 
@@ -25,7 +25,7 @@ Below is a selection of full-stack projects developed to explore production-read
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
         <a href="#none"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/PayPal_API-003087?logo=paypal&logoColor=white" alt="PayPal"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/PayPal_API-fec640?logo=paypal&logoColor=08368b" alt="PayPal"></a>
         <a href="#none"><img src="https://img.shields.io/badge/Deployment-Vercel_%26_Render-000000?" alt="Deployment"></a>
       </p>
       <p>
@@ -41,7 +41,7 @@ Below is a selection of full-stack projects developed to explore production-read
         <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj2c.gif?raw=true" alt="project"></a>
     </td>
     <td width="60%" valign="top">
-      <h3>MERN Architecture Lab: Balance Tracker <img src="https://img.shields.io/badge/WIP-fbbf24?" alt="WIP"></h3>
+      <h3>MERN Architecture Lab: Balance Tracker <img src="https://img.shields.io/badge/WIP-a8a29e?" alt="WIP"></h3>
       <p>A full-stack architectural case study focusing on production-ready system design via the MERN stack. Implements advanced task workflows with clean separation of concerns, optimized database modeling, and decoupled cross-cloud deployment on Vercel and Render.</p>
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
