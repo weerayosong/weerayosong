@@ -50,7 +50,7 @@ Below is a selection of full-stack projects developed to explore production-read
         <a href="#none"><img src="https://img.shields.io/badge/Deployment-Vercel_%26_Render-000000?" alt="Deployment"></a>
       </p>
       <p>
-        <a href="https://github.com/weerayosong/balance-tracker" target="_blank">Code Repository</a>
+        <a href="https://github.com/weerayosong/balance-tracker" target="_blank">Code Repository</a> &nbsp;|&nbsp;
         <a href="https://balance-tracker-fe.vercel.app" target="_blank">Live Preview</a>
       </p>
     </td>
