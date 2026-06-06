@@ -41,7 +41,7 @@ Below is a selection of full-stack projects developed to explore production-read
         <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj2c.gif?raw=true" alt="project"></a>
     </td>
     <td width="60%" valign="top">
-      <h3>MERN Architecture Lab: Balance Tracker <img src="https://img.shields.io/badge/WIP-a8a29e?" alt="WIP"></h3>
+      <h3>MERN Architecture Lab: Balance Tracker <img src="https://img.shields.io/badge/WIP-a8a29e?" alt="V1 - 1 user app"></h3>
       <p>A full-stack architectural case study focusing on production-ready system design via the MERN stack. Implements advanced task workflows with clean separation of concerns, optimized database modeling, and decoupled cross-cloud deployment on Vercel and Render.</p>
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
@@ -51,6 +51,7 @@ Below is a selection of full-stack projects developed to explore production-read
       </p>
       <p>
         <a href="https://github.com/weerayosong/balance-tracker" target="_blank">Code Repository</a>
+        <a href="https://balance-tracker-fe.vercel.app" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
