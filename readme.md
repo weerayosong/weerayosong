@@ -21,7 +21,7 @@ Below is a selection of full-stack projects developed to explore production-read
     </td>
     <td width="60%" valign="top">
       <h3>Juicy Healthy | Full-Stack E-Commerce</h3>
-      <p>My very first self-taught (trial and errors) full-stack project built to understand the foundational mechanics of a real-world E-commerce website. It served as a practical learning ground for global state management with Redux Toolkit, secure user authentication, and PayPal payment integration, paved the way for my deeper studies in advanced system design.</p>
+      <p>[Project #1] My very first self-taught (trial and errors) full-stack project built to understand the foundational mechanics of a real-world E-commerce website. It served as a practical learning ground for global state management with Redux Toolkit, secure user authentication, and PayPal payment integration, paved the way for my deeper studies in advanced system design.</p>
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
         <a href="#none"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux"></a>
@@ -41,8 +41,8 @@ Below is a selection of full-stack projects developed to explore production-read
         <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj2c.gif?raw=true" alt="project"></a>
     </td>
     <td width="60%" valign="top">
-      <h3>MERN Architecture Lab: Balance Tracker <img src="https://img.shields.io/badge/version_1-a8a29e?" alt="v1"></h3>
-      <p>A full-stack architectural case study focusing on production-ready system design via the MERN stack. Implements advanced task workflows with clean separation of concerns, optimized database modeling, and decoupled cross-cloud deployment on Vercel and Render.</p>
+      <h3>MERN Architecture Lab: Balance Tracker <a href="#none"><img src="https://img.shields.io/badge/version_1-a8a29e?" alt="v1"></a></h3>
+      <p>[Project #2] A full-stack architectural case study focusing on production-ready system design via the MERN stack. Implements advanced task workflows with clean separation of concerns, optimized database modeling, and decoupled cross-cloud deployment on Vercel and Render.</p>
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
         <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
@@ -63,7 +63,7 @@ Below is a selection of full-stack projects developed to explore production-read
     </td>
     <td width="60%" valign="top">
       <h3>JSD12 Architecture & System Design Lab I</h3>
-      <p>An API Testing Playground | An architectural system design project applying MERN and PERN stacks to a unified dashboard. It demonstrates decoupled logic (SoC) across MongoDB and PostgreSQL.</p>
+      <p>[Project #3] An API Testing Playground | An architectural system design project applying MERN and PERN stacks to a unified dashboard. It demonstrates decoupled logic (SoC) across MongoDB and PostgreSQL.</p>
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
         <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
@@ -84,7 +84,7 @@ Below is a selection of full-stack projects developed to explore production-read
     </td>
     <td width="60%" valign="top">
       <h3>JSD12 Architecture & System Design Lab II</h3>
-      <p>User Dashboard | A full-stack architectural lab emphasizing strict Separation of Concerns (SoC). Features a highly decoupled React frontend—structured with Custom Hooks, Context API, and an isolated Service Layer—integrated with a unified MERN backend. Demonstrates secure JWT authentication, role-based access control, cross-deployed on Vercel and Render.</p>
+      <p>[Project #4] User Dashboard | A full-stack architectural lab emphasizing strict Separation of Concerns (SoC). Features a highly decoupled React frontend—structured with Custom Hooks, Context API, and an isolated Service Layer—integrated with a unified MERN backend. Demonstrates secure JWT authentication, role-based access control, cross-deployed on Vercel and Render.</p>
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/SoC_Architecture-64748b?" alt="Architecture"></a>
         <a href="#none"><img src="https://img.shields.io/badge/React_Hooks-61DAFB?logo=react&logoColor=black" alt="React"></a>
@@ -94,6 +94,29 @@ Below is a selection of full-stack projects developed to explore production-read
       <p>
         <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe2.git" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
         <a href="https://jsd12-full-stack-app-fe2.vercel.app/" target="_blank">Live Preview</a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Project 5 -->
+  <tr>
+    <td width="40%" align="center">
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj5.gif?raw=true" alt="project"></a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>[WIP] Clinical Triage Mini-App | Angular & Spring Boot Exploration <a href="#none"><img src="https://img.shields.io/badge/Work In Progress-a8a29e?" alt="wip"></a></h3>
+      <p>[Project #5] Inspired by an interesting company at our bootcamp's job fair, I spent a brief weekend exploring their core tech stack: Angular and Java Spring Boot. To navigate this entirely unfamiliar ecosystem within a tight timeframe, I actively leveraged AI tools as a learning accelerator, adopting a hands-on, top-down approach to build a basic full-stack application. I honestly admit that I still have much to learn and do not fully grasp all the complex mechanics of these frameworks just yet.</p>
+      <p>
+        <a href="#none"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="typescript"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" alt="Spring Boot"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white" alt="java"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/AI_Assisted_Learning-64748b?" alt="AI Assisted"></a>
+      </p>
+      <p>
+        <a href="https://github.com/weerayosong/clinical-triage" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href="#none" target="_blank">Live Preview (Work In Progress)</a>
       </p>
     </td>
   </tr>
