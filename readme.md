@@ -30,7 +30,7 @@ Below is a selection of full-stack projects developed to explore production-read
       </p>
       <p>
         <a href="https://github.com/weerayosong/juicy-healthy" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
-        <a href="https://juicy-healthy.vercel.app/" target="_blank">Live Preview</a>
+        <a href="https://juicy-healthy.vercel.app" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
@@ -72,7 +72,7 @@ Below is a selection of full-stack projects developed to explore production-read
       </p>
       <p>
         <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe.git" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
-        <a href="https://jsd12-full-stack-app-fe.vercel.app/" target="_blank">Live Preview</a>
+        <a href="https://jsd12-full-stack-app-fe.vercel.app" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
@@ -93,7 +93,7 @@ Below is a selection of full-stack projects developed to explore production-read
       </p>
       <p>
         <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe2.git" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
-        <a href="https://jsd12-full-stack-app-fe2.vercel.app/" target="_blank">Live Preview</a>
+        <a href="https://jsd12-full-stack-app-fe2.vercel.app" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
@@ -101,10 +101,10 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 5 -->
   <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj5.gif?raw=true" alt="project"></a>
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj5b.gif?raw=true" alt="project"></a>
     </td>
     <td width="60%" valign="top">
-      <h3>[WIP] Clinical Triage Mini-App | Angular & Spring Boot Exploration <a href="#none"><img src="https://img.shields.io/badge/Work In Progress-a8a29e?" alt="wip"></a></h3>
+      <h3>Clinical Triage Mini-App | Angular & Spring Boot Exploration</h3>
       <p>[Project #5] Inspired by an interesting company at our bootcamp's job fair, I spent a brief weekend exploring their core tech stack: Angular and Java Spring Boot. To navigate this entirely unfamiliar ecosystem within a tight timeframe, I actively leveraged AI tools as a learning accelerator, adopting a hands-on, top-down approach to build a basic full-stack application. I honestly admit that I still have much to learn and do not fully grasp all the complex mechanics of these frameworks just yet.</p>
       <p>
         <a href="#none"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"></a>
@@ -112,11 +112,12 @@ Below is a selection of full-stack projects developed to explore production-read
         <a href="#none"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" alt="Spring Boot"></a>
         <a href="#none"><img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white" alt="java"></a>
         <a href="#none"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/AI_Assisted_Learning-64748b?" alt="AI Assisted"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/AI_Assisted_Learning-ffdd00?" alt="AI Assisted"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Deployment-Vercel,_Railway_%26_Aiven-000000?" alt="Deployment"></a>
       </p>
       <p>
-        <a href="https://github.com/weerayosong/clinical-triage" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
-        <a href="#none" target="_blank">Live Preview (Work In Progress)</a>
+        <a href="https://github.com/weerayosong/clinical-triage-frontend" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href="https://clinical-triage-frontend.vercel.app" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
