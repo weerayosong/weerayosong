@@ -121,6 +121,34 @@ Below is a selection of full-stack projects developed to explore production-read
       </p>
     </td>
   </tr>
+
+  <!-- Project 6 -->
+  <tr>
+    <td width="40%" align="center">
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj6.gif?raw=true" alt="project"></a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Juicy Healthy E-Commerce | JSD12 Group5: Debug Impact Five</h3>
+      <p>[Project #6] Developed collaboratively with Group 5 (Debug Impact Five) during the Generation Thailand Junior Software Developer Bootcamp (Cohort 12). I am profoundly grateful for the invaluable opportunities and support received throughout this journey. 'Juicy Healthy' is a health food e-commerce platform built with a focus on clean, minimal design and complete, practical functionality. Serving as both Product Owner (Scrum/Agile) and Frontend Developer, my primary goal was to write clean, maintainable code so that my teammates could easily understand and maximize their learning experience from this shared endeavor. I was fully responsible for the core frontend architecture (Context API, React Router), all API integrations, Authentication, Role-Based Access Control (RBAC), and the comprehensive product management system—including search, filtering, pagination, out-of-stock, edge case validations, responsive, and UX enhancements like optimistic updates and skeleton loading.</p>
+      <p>
+        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/React_Router-aa0031?logo=react-router&logoColor=white" alt="Context API React Router"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Context_API-0000bb" alt="Context_API"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/REST_API-a3e635?" alt="REST API"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Authentication-222222" alt="JWT"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/RBAC_Security-D32F2F" alt="RBAC"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/UX/Responsive-violet" alt="UX/Responsive"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Edge_case_validations-orange" alt="edge-case"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Ecommerce_Platform-4169E1" alt="Ecommerce_Platform"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Scrum/Agile_Management-ffdd00" alt="AI Assisted"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Team Collaboration-pink" alt="Deployment"></a>
+      </p>
+      <p>
+        <a href="https://github.com/weerayosong/group5-ecommerce-sprint2" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href=https://group5-ecommerce-sprint2.vercel.app" target="_blank">Live Preview</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
