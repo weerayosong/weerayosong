@@ -149,6 +149,28 @@ Below is a selection of full-stack projects developed to explore production-read
       </p>
     </td>
   </tr>
+
+  <!-- Project 7 -->
+  <tr>
+    <td width="40%" align="center">
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj7.gif?raw=true" alt="project"></a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>TypeSith | Ultimate Galactic Records</h3>
+      <p>[Project #7] DTypeSith is a frontend web application designed to catalog and display information about various Force users from the Star Wars universe. It allows users to seamlessly explore characters from both the Jedi Order and the Sith through an interactive, clean, and highly responsive interface.</p>
+      <p>
+        <a href="#none"><img src="https://img.shields.io/badge/React/TypeScript-0000bb" alt="React/TypeScript"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Complex_State_Management-a3e635?" alt="Complex State Management"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Dynamic_Pagination-aa0031" alt="Dynamic Pagination"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Filtering/Sorting_Logic-violet" alt="Filtering, Sorting Logic"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Union_Types/Interfaces-ffdd00" alt="Union Types, Interfaces"></a>
+      </p>
+      <p>
+        <a href="https://github.com/weerayosong/typesith" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href="https://typesith.vercel.app" target="_blank">Live Preview</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
