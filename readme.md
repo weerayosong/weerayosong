@@ -171,6 +171,52 @@ Below is a selection of full-stack projects developed to explore production-read
       </p>
     </td>
   </tr>
+
+  <!-- Project 8 -->
+  <tr>
+    <td width="40%" align="center">
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj8.gif?raw=true" alt="AI RAG Agent"></a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>AI RAG Agent: Smart Product Assistant</h3>
+      <p>[Project #8] 'AI RAG Agent' is a full-stack monorepo application designed to explore and implement Retrieval-Augmented Generation (RAG) architecture. Functioning as an intelligent product assistant, the system integrates Google's Gemini 3.5 Flash model via a Node.js/Express backend and a React frontend. A unique aspect of this project was orchestrating development alongside 'Antigravity'—an AI coding agent—by engineering precise architectural context and structured project blueprints. The core technical challenges I overcame included managing context-aware chat memory, enforcing strict context grounding via DummyJSON to prevent AI hallucinations, and building a robust system with a clean separation of concerns. This project is my training ground to build AI-integrated applications while embracing cutting-edge AI development workflows.</p>
+      <p>
+        <a href="#none"><img src="https://img.shields.io/badge/React%20%26%20TypeScript-0000bb" alt="React & TypeScript"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Node.js%20%26%20Express-339933" alt="Node.js & Express"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Gemini%20AI%20%26%20RAG-aa0031" alt="Gemini AI & RAG"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Monorepo%20Architecture-a3e635" alt="Monorepo Architecture"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Antigravity%20(AI%20Agent)-ffdd00" alt="Antigravity (AI Agent)"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Context%20Architecture-violet" alt="Context Architecture"></a>
+      </p>
+      <p>
+        <a href="https://github.com/weerayosong/ai-rag-agent" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href="https://ai-rag-agent-client.vercel.app" target="_blank">Live Preview</a>
+      </p>
+    </td>
+  </tr>
+
+<!-- Project 9 -->
+<tr>
+    <td width="40%" align="center">
+        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj9b.gif?raw=true" alt="Nextzy Gamification"></a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Nextzy Gamification: Full-Stack Reward Engine</h3>
+      <p>[Project #9] Developed as a Nextzy's pre-employment technical challenge, this project marks my very first hands-on experience with the Next.js (App Router) and NestJS ecosystem. Given the strict time constraints, I strategically paired with AI assistants to accelerate my top-down learning process, allowing me to grasp complex backend architecture rapidly. Approaching the task with a learner's mindset, I built a robust gamification platform capable of handling high-volume data (processing 2,000,000+ records via a custom ETL script). Key milestones in this journey included implementing a Global Error Pipeline, executing secure Database Transactions, and crafting professional API documentation. It was a humbling, challenging, yet immensely rewarding step forward in my developer journey.</p>
+      <p>
+        <a href="#none"><img src="https://img.shields.io/badge/Next.js%20%26%20NestJS-0000bb" alt="Next.js & NestJS"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Prisma%20%26%20PostgreSQL-339933" alt="Prisma & PostgreSQL"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/AI--Assisted%20Learning-aa0031" alt="AI-Assisted Learning"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/High--Volume%20Data%20(ETL)-a3e635" alt="High-Volume Data (ETL)"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Global%20Error%20Pipeline-ffdd00" alt="Global Error Pipeline"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Database%20Transactions-violet" alt="Database Transactions"></a>
+      </p>
+      <p>
+        <a href="https://github.com/weerayosong/nextzy-game-client" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href="https://nextzy-game-client.vercel.app" target="_blank">Live Preview</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
