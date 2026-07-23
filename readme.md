@@ -4,8 +4,8 @@
 
 A Full Stack Developer with a deep commitment to continuous learning, currently focusing on foundation, system design and business logic to lay a solid foundation for building scalable applications in the future.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yosong.dev-64748b?)](https://www.yosong.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-weerayosong-64748b?)](https://www.linkedin.com/in/weerayosong/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yosong.dev-1E293B?)](https://www.yosong.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-weerayosong-1E293B?)](https://www.linkedin.com/in/weerayosong/)
 
 ---
 
@@ -17,20 +17,22 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 1 -->
   <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj1b.gif?raw=true" alt="project"></a>
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800451/Proj1_lki9xk.gif" width="100%" style="border-radius: 4px;" alt="Juicy Healthy">
+        </a>
     </td>
     <td width="60%" valign="top">
       <h3>Juicy Healthy | Full-Stack E-Commerce</h3>
-      <p>[Project #1] My very first self-taught (trial and errors) full-stack project built to understand the foundational mechanics of a real-world E-commerce website. It served as a practical learning ground for global state management with Redux Toolkit, secure user authentication, and PayPal payment integration, paved the way for my deeper studies in advanced system design.</p>
+      <p>[Project #1] My first full-stack E-commerce project built to understand real-world mechanics. Features global state management with Redux Toolkit, secure authentication, and PayPal integration.</p>
       <p>
-        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/PayPal_API-fec640?logo=paypal&logoColor=08368b" alt="PayPal"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Deployment-Vercel_%26_Render-000000?" alt="Deployment"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-1E293B?logo=mongodb&logoColor=white" alt="MERN"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Redux_Toolkit-1E293B?logo=redux&logoColor=white" alt="Redux"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/PayPal_API-1E293B?logo=paypal&logoColor=white" alt="PayPal"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Deployment-1E293B?logo=vercel&logoColor=white" alt="Deployment"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/juicy-healthy" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
-        <a href="https://juicy-healthy.vercel.app" target="_blank">Live Preview</a>
+        <a href="https://juicy-healthy.vercel.app/" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
@@ -38,16 +40,17 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 2 -->
   <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj2c.gif?raw=true" alt="project"></a>
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800444/Proj2_cq9hej.gif" width="100%" style="border-radius: 4px;" alt="Balance Tracker">
+        </a>
     </td>
     <td width="60%" valign="top">
-      <h3>MERN Architecture Lab: Balance Tracker <a href="#none"><img src="https://img.shields.io/badge/version_1-a8a29e?" alt="v1"></a></h3>
-      <p>[Project #2] A full-stack architectural case study focusing on production-ready system design via the MERN stack. Implements advanced task workflows with clean separation of concerns, optimized database modeling, and decoupled cross-cloud deployment on Vercel and Render.</p>
+      <h3>MERN Architecture Lab: Balance Tracker</h3>
+      <p>[Project #2] A production-ready MERN stack case study. Focuses on advanced workflows, clean separation of concerns, optimized database modeling, and decoupled cross-cloud deployment.</p>
       <p>
-        <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/REST_API-a3e635?" alt="REST API"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Deployment-Vercel_%26_Render-000000?" alt="Deployment"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/System_Design-1E293B?" alt="System Design"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-1E293B?logo=mongodb&logoColor=white" alt="MERN"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/REST_API-1E293B?" alt="REST API"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/balance-tracker" target="_blank">Code Repository</a> &nbsp;|&nbsp;
@@ -59,20 +62,21 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 3 -->
   <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj3b.gif?raw=true" alt="project"></a>
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800444/Proj3_wkdw6s.gif" width="100%" style="border-radius: 4px;" alt="JSD12 Lab 1">
+        </a>
     </td>
     <td width="60%" valign="top">
       <h3>JSD12 Architecture & System Design Lab I</h3>
-      <p>[Project #3] An API Testing Playground | An architectural system design project applying MERN and PERN stacks to a unified dashboard. It demonstrates decoupled logic (SoC) across MongoDB and PostgreSQL.</p>
+      <p>[Project #3] An API testing playground applying MERN and PERN stacks to a unified dashboard, demonstrating decoupled logic (SoC) across MongoDB and PostgreSQL.</p>
       <p>
-        <a href="#none"><img src="https://img.shields.io/badge/System_Design-475569?" alt="System Design"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/PERN_Stack-336791?logo=postgresql&logoColor=white" alt="PERN"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/API_Sandbox-9a3412?" alt="API"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/System_Design-1E293B?" alt="System Design"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-1E293B?logo=mongodb&logoColor=white" alt="MERN"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/PERN_Stack-1E293B?logo=postgresql&logoColor=white" alt="PERN"></a>
       </p>
       <p>
-        <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe.git" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
-        <a href="https://jsd12-full-stack-app-fe.vercel.app" target="_blank">Live Preview</a>
+        <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href="https://jsd12-full-stack-app-fe.vercel.app/" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
@@ -80,20 +84,21 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 4 -->
   <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj4b.gif?raw=true" alt="project"></a>
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800445/Proj4_im2k53.gif" width="100%" style="border-radius: 4px;" alt="JSD12 Lab 2">
+        </a>
     </td>
     <td width="60%" valign="top">
       <h3>JSD12 Architecture & System Design Lab II</h3>
-      <p>[Project #4] User Dashboard | A full-stack architectural lab emphasizing strict Separation of Concerns (SoC). Features a highly decoupled React frontend—structured with Custom Hooks, Context API, and an isolated Service Layer—integrated with a unified MERN backend. Demonstrates secure JWT authentication, role-based access control, cross-deployed on Vercel and Render.</p>
+      <p>[Project #4] A decoupled user dashboard emphasizing strict Separation of Concerns (SoC). Features a React frontend (Custom Hooks, Context API) and a unified MERN backend with secure JWT authentication and RBAC.</p>
       <p>
-        <a href="#none"><img src="https://img.shields.io/badge/SoC_Architecture-64748b?" alt="Architecture"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/React_Hooks-61DAFB?logo=react&logoColor=black" alt="React"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/JWT_Authentication-000000?logo=json-web-tokens&logoColor=white" alt="JWT"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/RBAC_Security-D32F2F?" alt="RBAC"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/SoC_Architecture-1E293B?" alt="Architecture"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/React_Hooks-1E293B?logo=react&logoColor=white" alt="React"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/JWT_&_RBAC-1E293B?logo=json-web-tokens&logoColor=white" alt="JWT"></a>
       </p>
       <p>
-        <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe2.git" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
-        <a href="https://jsd12-full-stack-app-fe2.vercel.app" target="_blank">Live Preview</a>
+        <a href="https://github.com/weerayosong/jsd12-full-stack-app-fe2" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href="https://jsd12-full-stack-app-fe2.vercel.app/" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
@@ -101,19 +106,18 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 5 -->
   <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj5b.gif?raw=true" alt="project"></a>
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800451/Proj5_xlm0h9.gif" width="100%" style="border-radius: 4px;" alt="Clinical Triage">
+        </a>
     </td>
     <td width="60%" valign="top">
-      <h3>Clinical Triage Mini-App | Angular & Spring Boot Exploration</h3>
-      <p>[Project #5] Inspired by an interesting company at our bootcamp's job fair, I spent a brief weekend exploring their core tech stack: Angular and Java Spring Boot. To navigate this entirely unfamiliar ecosystem within a tight timeframe, I actively leveraged AI tools as a learning accelerator, adopting a hands-on, top-down approach to build a basic full-stack application. I honestly admit that I still have much to learn and do not fully grasp all the complex mechanics of these frameworks just yet.</p>
+      <h3>Clinical Triage Mini-App | Angular & Spring Boot</h3>
+      <p>[Project #5] A weekend exploration of Angular and Java Spring Boot. Built a basic full-stack application leveraging AI tools to navigate an unfamiliar ecosystem rapidly, demonstrating adaptability and a commitment to continuous learning.</p>
       <p>
-        <a href="#none"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="typescript"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" alt="Spring Boot"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white" alt="java"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/AI_Assisted_Learning-ffdd00?" alt="AI Assisted"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Deployment-Vercel,_Railway_%26_Aiven-000000?" alt="Deployment"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Angular-1E293B?logo=angular&logoColor=white" alt="Angular"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Spring_Boot-1E293B?logo=spring-boot&logoColor=white" alt="Spring Boot"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/PostgreSQL-1E293B?logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/AI_Learning-1E293B?" alt="AI Assisted"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/clinical-triage-frontend" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
@@ -125,27 +129,22 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 6 -->
   <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj6.gif?raw=true" alt="project"></a>
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800452/Proj6_lgxq9w.gif" width="100%" style="border-radius: 4px;" alt="Juicy Healthy Group">
+        </a>
     </td>
     <td width="60%" valign="top">
-      <h3>Juicy Healthy E-Commerce | JSD12 Group5: Debug Impact Five</h3>
-      <p>[Project #6] Developed collaboratively with Group 5 (Debug Impact Five) during the Generation Thailand Junior Software Developer Bootcamp (Cohort 12). I am profoundly grateful for the invaluable opportunities and support received throughout this journey. 'Juicy Healthy' is a health food e-commerce platform built with a focus on clean, minimal design and complete, practical functionality. Serving as both Product Owner (Scrum/Agile) and Frontend Developer, my primary goal was to write clean, maintainable code so that my teammates could easily understand and maximize their learning experience from this shared endeavor. I was fully responsible for the core frontend architecture (Context API, React Router), all API integrations, Authentication, Role-Based Access Control (RBAC), and the comprehensive product management system—including search, filtering, pagination, out-of-stock, edge case validations, responsive, and UX enhancements like optimistic updates and skeleton loading.</p>
+      <h3>Juicy Healthy E-Commerce | Group Collaboration</h3>
+      <p>[Project #6] A collaborative health food e-commerce platform built during the JSD12 Bootcamp. Served as Product Owner and Frontend Developer, architecting a clean Context API/React Router frontend, integrating REST APIs, RBAC, and robust product management systems.</p>
       <p>
-        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-47A248?logo=mongodb&logoColor=white" alt="MERN"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/React_Router-aa0031?logo=react-router&logoColor=white" alt="Context API React Router"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Context_API-0000bb" alt="Context_API"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/REST_API-a3e635?" alt="REST API"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Authentication-222222" alt="JWT"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/RBAC_Security-D32F2F" alt="RBAC"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/UX/Responsive-violet" alt="UX/Responsive"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Edge_case_validations-orange" alt="edge-case"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Ecommerce_Platform-4169E1" alt="Ecommerce_Platform"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Scrum/Agile_Management-ffdd00" alt="AI Assisted"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Team Collaboration-pink" alt="Deployment"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/MERN_Stack-1E293B?logo=mongodb&logoColor=white" alt="MERN"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/React_Router-1E293B?logo=react-router&logoColor=white" alt="React Router"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Authentication-1E293B" alt="JWT"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Scrum/Agile-1E293B" alt="Agile"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/group5-ecommerce-sprint2" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
-        <a href=https://group5-ecommerce-sprint2.vercel.app" target="_blank">Live Preview</a>
+        <a href="https://group5-ecommerce-sprint2.vercel.app/" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
@@ -153,21 +152,21 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 7 -->
   <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj7.gif?raw=true" alt="project"></a>
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800451/Proj7_wlvugq.gif" width="100%" style="border-radius: 4px;" alt="TypeSith">
+        </a>
     </td>
     <td width="60%" valign="top">
       <h3>TypeSith | Ultimate Galactic Records</h3>
-      <p>[Project #7] DTypeSith is a frontend web application designed to catalog and display information about various Force users from the Star Wars universe. It allows users to seamlessly explore characters from both the Jedi Order and the Sith through an interactive, clean, and highly responsive interface.</p>
+      <p>[Project #7] A frontend-only React/TypeScript application cataloging Force-sensitive entities. Engineered for heavy client-side data manipulation, featuring Discriminated Union Types, complex filtering, and dynamic pagination without relying on a backend.</p>
       <p>
-        <a href="#none"><img src="https://img.shields.io/badge/React/TypeScript-0000bb" alt="React/TypeScript"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Complex_State_Management-a3e635?" alt="Complex State Management"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Dynamic_Pagination-aa0031" alt="Dynamic Pagination"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Filtering/Sorting_Logic-violet" alt="Filtering, Sorting Logic"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Union_Types/Interfaces-ffdd00" alt="Union Types, Interfaces"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/React/TypeScript-1E293B?logo=typescript&logoColor=white" alt="React/TypeScript"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/State_Management-1E293B?" alt="Complex State Management"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Dynamic_Pagination-1E293B" alt="Dynamic Pagination"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/typesith" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
-        <a href="https://typesith.vercel.app" target="_blank">Live Preview</a>
+        <a href="https://typesith.vercel.app/" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
@@ -175,18 +174,17 @@ Below is a selection of full-stack projects developed to explore production-read
   <!-- Project 8 -->
   <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj8.gif?raw=true" alt="AI RAG Agent"></a>
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800445/Proj8_n3hldv.gif" width="100%" style="border-radius: 4px;" alt="AI RAG Agent">
+        </a>
     </td>
     <td width="60%" valign="top">
       <h3>AI RAG Agent: Smart Product Assistant</h3>
-      <p>[Project #8] 'AI RAG Agent' is a full-stack monorepo application designed to explore and implement Retrieval-Augmented Generation (RAG) architecture. Functioning as an intelligent product assistant, the system integrates Google's Gemini 3.5 Flash model via a Node.js/Express backend and a React frontend. A unique aspect of this project was orchestrating development alongside 'Antigravity'—an AI coding agent—by engineering precise architectural context and structured project blueprints. The core technical challenges I overcame included managing context-aware chat memory, enforcing strict context grounding via DummyJSON to prevent AI hallucinations, and building a robust system with a clean separation of concerns. This project is my training ground to build AI-integrated applications while embracing cutting-edge AI development workflows.</p>
+      <p>[Project #8] A full-stack RAG (Retrieval-Augmented Generation) application functioning as a smart product assistant. Integrates Gemini 3.5 Flash, managing context-aware chat memory and enforcing strict context grounding to prevent AI hallucinations.</p>
       <p>
-        <a href="#none"><img src="https://img.shields.io/badge/React%20%26%20TypeScript-0000bb" alt="React & TypeScript"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Node.js%20%26%20Express-339933" alt="Node.js & Express"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Gemini%20AI%20%26%20RAG-aa0031" alt="Gemini AI & RAG"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Monorepo%20Architecture-a3e635" alt="Monorepo Architecture"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Antigravity%20(AI%20Agent)-ffdd00" alt="Antigravity (AI Agent)"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Context%20Architecture-violet" alt="Context Architecture"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/React/Node.js-1E293B?logo=node.js&logoColor=white" alt="Node.js"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Gemini_AI_&_RAG-1E293B?" alt="Gemini AI & RAG"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Monorepo-1E293B" alt="Monorepo Architecture"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/ai-rag-agent" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
@@ -195,25 +193,68 @@ Below is a selection of full-stack projects developed to explore production-read
     </td>
   </tr>
 
-<!-- Project 9 -->
-<tr>
+  <!-- Project 9 -->
+  <tr>
     <td width="40%" align="center">
-        <a href="#none"><img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/gif/proj9b.gif?raw=true" alt="Nextzy Gamification"></a>
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800457/Proj9_cg90lk.gif" width="100%" style="border-radius: 4px;" alt="Nextzy Gamification">
+        </a>
     </td>
     <td width="60%" valign="top">
       <h3>Nextzy Gamification: Full-Stack Reward Engine</h3>
-      <p>[Project #9] Developed as a Nextzy's pre-employment technical challenge, this project marks my very first hands-on experience with the Next.js (App Router) and NestJS ecosystem. Given the strict time constraints, I strategically paired with AI assistants to accelerate my top-down learning process, allowing me to grasp complex backend architecture rapidly. Approaching the task with a learner's mindset, I built a robust gamification platform capable of handling high-volume data (processing 2,000,000+ records via a custom ETL script). Key milestones in this journey included implementing a Global Error Pipeline, executing secure Database Transactions, and crafting professional API documentation. It was a humbling, challenging, yet immensely rewarding step forward in my developer journey.</p>
+      <p>[Project #9] A Next.js and NestJS gamification platform capable of handling high-volume data (2M+ records). Implements a Global Error Pipeline, secure Database Transactions, and professional API documentation.</p>
       <p>
-        <a href="#none"><img src="https://img.shields.io/badge/Next.js%20%26%20NestJS-0000bb" alt="Next.js & NestJS"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Prisma%20%26%20PostgreSQL-339933" alt="Prisma & PostgreSQL"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/AI--Assisted%20Learning-aa0031" alt="AI-Assisted Learning"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/High--Volume%20Data%20(ETL)-a3e635" alt="High-Volume Data (ETL)"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Global%20Error%20Pipeline-ffdd00" alt="Global Error Pipeline"></a>
-        <a href="#none"><img src="https://img.shields.io/badge/Database%20Transactions-violet" alt="Database Transactions"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Next.js_&_NestJS-1E293B?logo=next.js&logoColor=white" alt="Next.js & NestJS"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Prisma_&_PostgreSQL-1E293B?logo=prisma&logoColor=white" alt="Prisma"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Database_Transactions-1E293B" alt="Database Transactions"></a>
       </p>
       <p>
         <a href="https://github.com/weerayosong/nextzy-game-client" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
         <a href="https://nextzy-game-client.vercel.app" target="_blank">Live Preview</a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Project 10 -->
+  <tr>
+    <td width="40%" align="center">
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800451/Proj10_p6em4l.gif" width="100%" style="border-radius: 4px;" alt="Simple Brain">
+        </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Simple Brain: AI-First Knowledge Control Center</h3>
+      <p>[Project #10] A "Second Brain" knowledge control center optimizing Multi-Agent collaboration. Powered by Gemini, it features custom Agent Skills for automatic codebase ingestion, semantic refactoring, and generating Obsidian-friendly wikis.</p>
+      <p>
+        <a href="#none"><img src="https://img.shields.io/badge/AI_Agent_Workflows-1E293B?" alt="AI Agent Workflows"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Knowledge_Management-1E293B?" alt="Knowledge Management"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Git_Automation-1E293B?logo=git&logoColor=white" alt="Git Automation"></a>
+      </p>
+      <p>
+        <a href="https://github.com/weerayosong/simple-brain" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href="https://github.com/weerayosong/simple-brain" target="_blank">Live Preview</a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Project 11 -->
+  <tr>
+    <td width="40%" align="center">
+        <a href="#none">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800443/Proj11_tenqrt.gif" width="100%" style="border-radius: 4px;" alt="Ganesha Digital Altar">
+        </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Ganesha Digital Altar | Full-Stack Next.js Monolith</h3>
+      <p>[Project #11] A Digital Altar Management platform integrating frontend and backend in a single Next.js monorepo. Features complete CRUD operations, Cloudinary uploads, and end-to-end data validation using Zod.</p>
+      <p>
+        <a href="#none"><img src="https://img.shields.io/badge/Next.js_App_Router-1E293B?logo=next.js&logoColor=white" alt="Next.js App Router"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/MongoDB-1E293B?logo=mongodb&logoColor=white" alt="MongoDB"></a>
+        <a href="#none"><img src="https://img.shields.io/badge/Zod_Validation-1E293B?" alt="Zod"></a>
+      </p>
+      <p>
+        <a href="https://github.com/weerayosong/ganesha-monolith" target="_blank">Code Repository</a> &nbsp;|&nbsp; 
+        <a href="https://ganesha-monolith.vercel.app" target="_blank">Live Preview</a>
       </p>
     </td>
   </tr>
@@ -230,31 +271,27 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
   <tr>
     <td width="20%" valign="top" align="center">
         <a href="#none">
-            <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/mini1.png?raw=true" width="100%" style="border-radius: 4px;" alt="Mini 1">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800443/mini1_jrznbv.png" width="100%" style="border-radius: 4px;" alt="Mini 1">
         </a>   
     </td>
     <td width="30%" valign="top">
-      <strong>Mini #1: yosong.dev | weerayosong's Portfolio</strong><br>
-      <small>Now you're looking at this mini. That's right, It's this page.</small><br><br><a href="#none">
-      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <strong>Mini #1: yosong.dev | Portfolio</strong><br>
+      <small>Now you're looking at this mini. That's right, It's this page.</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/HTML/Tailwind-1E293B?logo=html5" alt="html5"></a>
       <br><br>
-      <a href="https://github.com/weerayosong/weerayosong.github.io">Code</a> | <a href="https://www.yosong.dev/">Live</a>
+      <a href="https://github.com/weerayosong/weerayosong.github.io">Code</a> | <a href="https://www.yosong.dev">Live</a>
     </td>
     <td width="20%" valign="top" align="center">
         <a href="#none">
-            <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/mini2.png?raw=true" width="100%" style="border-radius: 4px;" alt="Mini 2">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800444/mini2_yysyqd.png" width="100%" style="border-radius: 4px;" alt="Mini 2">
         </a>
     </td>
     <td width="30%" valign="top">
       <strong>Mini #2: Empire Strikes Clicker!</strong><br>
       <small>Cookie clicker-clone with the love of Star wars in mind!</small><br><br>
-      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/DOM_Manipulation-1E293B?logo=javascript" alt="js"></a>
       <br><br>
-      <a href="https://github.com/weerayosong/jsd12_week07/tree/main/02_empire-strikes-clicker">Code</a> | <a href="https://jsd12week07.vercel.app/">Live</a>
+      <a href="https://github.com/weerayosong/jsd12_week07/tree/main/02_empire-strikes-clicker">Code</a> | <a href="https://jsd12week07.vercel.app">Live</a>
     </td>
   </tr>
 
@@ -262,31 +299,27 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
   <tr>
     <td width="20%" valign="top" align="center">
         <a href="#none">
-            <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/mini3.png?raw=true" width="100%" style="border-radius: 4px;" alt="Mini 3">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800441/mini3_ind30n.png" width="100%" style="border-radius: 4px;" alt="Mini 3">
         </a>
     </td>
     <td width="30%" valign="top">
       <strong>Mini #3: Dark Side Converter | PX to REM</strong><br>
-      <small>PX to REM unit converter made by Lord Vader</small><br><br>
-      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <small>PX to REM unit converter made by Lord Vader.</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/Vanilla_JS-1E293B?logo=javascript" alt="js"></a>
       <br><br>
-      <a href="https://github.com/weerayosong/px-rem-converter-darkside">Code</a> | <a href="https://px-rem-converter-darkside.vercel.app/">Live</a>
+      <a href="https://github.com/weerayosong/px-rem-converter-darkside">Code</a> | <a href="https://px-rem-converter-darkside.vercel.app">Live</a>
     </td>
     <td width="20%" valign="top" align="center">
         <a href="#none">
-            <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/mini4.png?raw=true" width="100%" style="border-radius: 4px;" alt="Mini 4">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800441/mini4_abffes.png" width="100%" style="border-radius: 4px;" alt="Mini 4">
         </a>
     </td>
     <td width="30%" valign="top">
-      <strong>Mini #4: My first API - Pokemon-Simple-API</strong><br>
+      <strong>Mini #4: Pokemon-Simple-API</strong><br>
       <small>PokeAPI in new simple API Schema, Contain only neccessesary property.</small><br><br>
-      <a href="#none"><img src="https://img.shields.io/badge/Node-0F172A?logo=node.js" alt="node"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/Express-0F172A?&logo=express" alt="express"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/RESTful_API-0F172A?&logo=rest" alt="rest-api"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/Node/Express-1E293B?logo=node.js" alt="node"></a>
       <br><br>
-      <a href="https://github.com/weerayosong/pokemon-simple">Code</a> | <a href="https://pokemon-simple.vercel.app/">Live</a>
+      <a href="https://github.com/weerayosong/pokemon-simple">Code</a> | <a href="https://pokemon-simple.vercel.app">Live</a>
     </td>
   </tr>
 
@@ -294,31 +327,27 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
   <tr>
     <td width="20%" valign="top" align="center">
         <a href="#none">
-            <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/mini5.png?raw=true" width="100%" style="border-radius: 4px;" alt="Mini 5">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800442/mini5_pyhkkn.png" width="100%" style="border-radius: 4px;" alt="Mini 5">
         </a>
     </td>
     <td width="30%" valign="top">
-      <strong>Mini #5: Space Castle Dooms | JS Browser-based Rogue-like game</strong><br>
+      <strong>Mini #5: Space Castle Dooms</strong><br>
       <small>Practice myself by make game with REACT!</small><br><br>
-      <a href="#none"><img src="https://img.shields.io/badge/React-0F172A?logo=react" alt="react"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/React-1E293B?logo=react" alt="react"></a>
       <br><br>
-      <a href="https://github.com/weerayosong/space-castle-dooms">Code</a> | <a href="https://space-castle-dooms.vercel.app/">Live</a>
+      <a href="https://github.com/weerayosong/space-castle-dooms">Code</a> | <a href="https://space-castle-dooms.vercel.app">Live</a>
     </td>
     <td width="20%" valign="top" align="center">
         <a href="#none">
-            <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/mini6.png?raw=true" width="100%" style="border-radius: 4px;" alt="Mini 6">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800442/mini6_kycd7n.png" width="100%" style="border-radius: 4px;" alt="Mini 6">
         </a>
     </td>
     <td width="30%" valign="top">
-      <strong>Mini #6: Dark Side Converter | Tailwind CSS-Size</strong><br>
-      <small>You'll use Tailwind CSS-Size with more Precisionly (like Stromtrooper).</small><br><br>
-      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js">
+      <strong>Mini #6: Tailwind CSS-Size Converter</strong><br>
+      <small>You'll use Tailwind CSS-Size with more Precisionly.</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/Tailwind_CSS-1E293B?logo=tailwindcss" alt="tailwind"></a>
       <br><br>
-      <a href="https://github.com/weerayosong/tailwindcss-size-converter-darkside">Code</a> | <a href="https://tailwindcss-size-converter-darkside.vercel.app/">Live</a>
+      <a href="https://github.com/weerayosong/tailwindcss-size-converter-darkside">Code</a> | <a href="https://tailwindcss-size-converter-darkside.vercel.app">Live</a>
     </td>
   </tr>
 
@@ -326,32 +355,73 @@ A collection of focused exercises, rapid utility prototypes, and client-side log
   <tr>
     <td width="20%" valign="top" align="center">
         <a href="#none">
-            <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/mini7b.png?raw=true" width="100%" style="border-radius: 4px;" alt="Mini 7">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784801232/mini7_aoao8j.png" width="100%" style="border-radius: 4px;" alt="Mini 7">
         </a>
     </td>
     <td width="30%" valign="top">
-      <strong>Mini #7: FE + BE | JS Browser-based RPG game</strong><br>
+      <strong>Mini #7: FE + BE RPG game</strong><br>
       <small>At least made a quick game with React, better than abandon whole project.</small><br><br>
-      <a href="#none"><img src="https://img.shields.io/badge/React-0F172A?logo=react" alt="react"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <a href="#none"><img src="https://img.shields.io/badge/React_JS-1E293B?logo=react" alt="react"></a>
       <br><br>
-      <a href="https://github.com/weerayosong/febe-game">Code</a> | <a href="https://febe-game.vercel.app/">Live</a>
+      <a href="https://github.com/weerayosong/febe-game">Code</a> | <a href="https://febe-game.vercel.app">Live</a>
     </td>
     <td width="20%" valign="top" align="center">
         <a href="#none">
-            <img src="https://github.com/weerayosong/weerayosong.github.io/blob/main/images/mini8.png?raw=true" width="100%" style="border-radius: 4px;" alt="Mini 8">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800443/mini8_z6xpnd.png" width="100%" style="border-radius: 4px;" alt="Mini 8">
         </a>
     </td>
     <td width="30%" valign="top">
-      <strong>Mini #8: Portfolio II | From Design to Code Portfolio</strong><br>
-      <small>JSD12 Portfolio Workshop, from Design to Code in 1 Day</small><br><br>
-      <a href="#none"><img src="https://img.shields.io/badge/HTML-0F172A?logo=html5" alt="html5"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind-css"></a>
-      <a href="#none"><img src="https://img.shields.io/badge/JavaScript-0F172A?&logo=javascript" alt="js"></a>
+      <strong>Mini #8: Portfolio II</strong><br>
+      <small>JSD12 Portfolio Workshop, from Design to Code in 1 Day.</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/Figma/HTML-1E293B?logo=figma" alt="figma"></a>
       <br><br>
-      <a href="https://github.com/weerayosong/portfolio2">Code</a> | <a href="https://portfolio2-wheat-pi.vercel.app/">Live</a>
+      <a href="https://github.com/weerayosong/portfolio2">Code</a> | <a href="https://portfolio2-wheat-pi.vercel.app">Live</a>
     </td>
+  </tr>
+
+  <!-- Row 5: Mini 9 & Mini 10 -->
+  <tr>
+    <td width="20%" valign="top" align="center">
+        <a href="#none">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800445/mini9_mfxfj0.png" width="100%" style="border-radius: 4px;" alt="Mini 9">
+        </a>
+    </td>
+    <td width="30%" valign="top">
+      <strong>Mini #9: Tailwind CSS Random Color</strong><br>
+      <small>Which color do you want? IDK just random it.</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/Vanilla_JS-1E293B?logo=javascript" alt="js"></a>
+      <br><br>
+      <a href="https://github.com/weerayosong/tailwind-random-color">Code</a> | <a href="https://tailwind-random-color.vercel.app">Live</a>
+    </td>
+    <td width="20%" valign="top" align="center">
+        <a href="#none">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800443/mini10_wtoh41.png" width="100%" style="border-radius: 4px;" alt="Mini 10">
+        </a>
+    </td>
+    <td width="30%" valign="top">
+      <strong>Mini #10: JS Knowledge Cards</strong><br>
+      <small>Swipe to thrive up your knowledges of JavaScript.</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/HTML/JS-1E293B?logo=javascript" alt="js"></a>
+      <br><br>
+      <a href="https://github.com/weerayosong/js-card">Code</a> | <a href="https://js-card-psi.vercel.app">Live</a>
+    </td>
+  </tr>
+
+  <!-- Row 6: Mini 11 -->
+  <tr>
+    <td width="20%" valign="top" align="center">
+        <a href="#none">
+            <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto,f_auto/v1784800444/mini11_kwnyw7.png" width="100%" style="border-radius: 4px;" alt="Mini 11">
+        </a>
+    </td>
+    <td width="30%" valign="top">
+      <strong>Mini #11: Keybong</strong><br>
+      <small>May the typing speed be with you. Typing Practice App for Slowpokes!!</small><br><br>
+      <a href="#none"><img src="https://img.shields.io/badge/Vanilla_JS-1E293B?logo=javascript" alt="js"></a>
+      <br><br>
+      <a href="https://github.com/weerayosong/keybong">Code</a> | <a href="https://keybong.vercel.app">Live</a>
+    </td>
+    <td colspan="2"></td> <!-- Empty cell to balance the grid -->
   </tr>
 </table>
 
