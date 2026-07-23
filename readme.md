@@ -41,7 +41,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800444/Proj2_cq9hej.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj2.gif?raw=true" width="100%" style="border-radius: 4px;" alt="Balance Tracker">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -63,7 +63,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800444/Proj3_wkdw6s.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj3.gif?raw=true" width="100%" style="border-radius: 4px;" alt="JSD12 Lab 1">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -85,7 +85,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800445/Proj4_im2k53.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj4.gif?raw=true" width="100%" style="border-radius: 4px;" alt="JSD12 Lab 2">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -107,7 +107,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800451/Proj5_xlm0h9.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj5.gif?raw=true" width="100%" style="border-radius: 4px;" alt="Clinical Triage">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -130,7 +130,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800452/Proj6_lgxq9w.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj6.gif?raw=true" width="100%" style="border-radius: 4px;" alt="Juicy Healthy Group">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -153,7 +153,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800451/Proj7_wlvugq.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj7.gif?raw=true" width="100%" style="border-radius: 4px;" alt="TypeSith">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -175,7 +175,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800445/Proj8_n3hldv.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj8.gif?raw=true" width="100%" style="border-radius: 4px;" alt="AI RAG Agent">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -197,7 +197,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800457/Proj9_cg90lk.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj9.gif?raw=true" width="100%" style="border-radius: 4px;" alt="Nextzy Gamification">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -219,7 +219,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800451/Proj10_p6em4l.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj10.gif?raw=true" width="100%" style="border-radius: 4px;" alt="Simple Brain">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -241,7 +241,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <video src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto,f_auto/v1784800443/Proj11_tenqrt.mp4" width="100%" autoplay loop muted playsinline></video>
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj11.gif?raw=true" width="100%" style="border-radius: 4px;" alt="Ganesha Digital Altar">
         </a>
     </td>
     <td width="60%" valign="top">
