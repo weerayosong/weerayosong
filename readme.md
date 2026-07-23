@@ -18,7 +18,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/image/upload/q_auto/v1784823894/Proj1_vwlsne.gif?cache=1" width="100%" style="border-radius: 4px;" alt="Juicy Healthy">
+          <img src="https://github.com/weerayosong/weerayosong/blob/main/img/Proj1.gif?raw=true" width="100%" style="border-radius: 4px;" alt="Juicy Healthy">
         </a>
     </td>
     <td width="60%" valign="top">
