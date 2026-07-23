@@ -18,7 +18,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800451/Proj1_lki9xk.gif" width="100%" style="border-radius: 4px;" alt="Juicy Healthy">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800451/Proj1_lki9xk.gif" width="100%" style="border-radius: 4px;" alt="Juicy Healthy">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -41,7 +41,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800444/Proj2_cq9hej.gif" width="100%" style="border-radius: 4px;" alt="Balance Tracker">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800444/Proj2_cq9hej.gif" width="100%" style="border-radius: 4px;" alt="Balance Tracker">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -63,7 +63,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800444/Proj3_wkdw6s.gif" width="100%" style="border-radius: 4px;" alt="JSD12 Lab 1">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800444/Proj3_wkdw6s.gif" width="100%" style="border-radius: 4px;" alt="JSD12 Lab 1">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -85,7 +85,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800445/Proj4_im2k53.gif" width="100%" style="border-radius: 4px;" alt="JSD12 Lab 2">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800445/Proj4_im2k53.gif" width="100%" style="border-radius: 4px;" alt="JSD12 Lab 2">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -107,7 +107,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800451/Proj5_xlm0h9.gif" width="100%" style="border-radius: 4px;" alt="Clinical Triage">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800451/Proj5_xlm0h9.gif" width="100%" style="border-radius: 4px;" alt="Clinical Triage">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -130,7 +130,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800452/Proj6_lgxq9w.gif" width="100%" style="border-radius: 4px;" alt="Juicy Healthy Group">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800452/Proj6_lgxq9w.gif" width="100%" style="border-radius: 4px;" alt="Juicy Healthy Group">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -153,7 +153,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800451/Proj7_wlvugq.gif" width="100%" style="border-radius: 4px;" alt="TypeSith">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800451/Proj7_wlvugq.gif" width="100%" style="border-radius: 4px;" alt="TypeSith">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -175,7 +175,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800445/Proj8_n3hldv.gif" width="100%" style="border-radius: 4px;" alt="AI RAG Agent">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800445/Proj8_n3hldv.gif" width="100%" style="border-radius: 4px;" alt="AI RAG Agent">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -197,7 +197,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800457/Proj9_cg90lk.gif" width="100%" style="border-radius: 4px;" alt="Nextzy Gamification">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800457/Proj9_cg90lk.gif" width="100%" style="border-radius: 4px;" alt="Nextzy Gamification">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -219,7 +219,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800451/Proj10_p6em4l.gif" width="100%" style="border-radius: 4px;" alt="Simple Brain">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800451/Proj10_p6em4l.gif" width="100%" style="border-radius: 4px;" alt="Simple Brain">
         </a>
     </td>
     <td width="60%" valign="top">
@@ -241,7 +241,7 @@ Below is a selection of full-stack projects developed to explore production-read
   <tr>
     <td width="40%" align="center">
         <a href="#none">
-          <img src="https://res.cloudinary.com/s0vscy04/video/upload/q_auto/v1784800443/Proj11_tenqrt.gif" width="100%" style="border-radius: 4px;" alt="Ganesha Digital Altar">
+          <img src="https://res.cloudinary.com/s0vscy04/video/upload/w_600,fps_10,q_auto:eco/v1784800443/Proj11_tenqrt.gif" width="100%" style="border-radius: 4px;" alt="Ganesha Digital Altar">
         </a>
     </td>
     <td width="60%" valign="top">
